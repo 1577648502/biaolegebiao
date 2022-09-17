@@ -1,6 +1,6 @@
 <template>
   <div id="indexPage">
-    <h1>🐟 鱼了个鱼</h1>
+    <h1>😂 表了个表</h1>
     <div style="margin-bottom: 16px">低配版羊了个羊小游戏，仅供消遣</div>
     <a-button
       block
