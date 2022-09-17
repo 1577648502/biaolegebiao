@@ -33,7 +33,7 @@
     <a-button block style="margin-bottom: 16px" @click="() => toGamePage()">
       自定义
     </a-button>
-    <a href="https://github.com/liyupi/yulegeyu" target="_blank">
+    <a href="https://github.com/1577648502/yulegeyu" target="_blank">
       <div style="background: rgba(0, 0, 0, 0.8); padding: 12px">
         <github-outlined />
         代码完全开源，欢迎 star
@@ -41,12 +41,12 @@
     </a>
     <div class="footer">
       鱼了个鱼 ©2022 by
-      <a href="https://github.com/liyupi" target="_blank" style="color: #fff">
-        程序员鱼皮
+      <a href="https://github.com/1577648502" target="_blank" style="color: #fff">
+        1577648502
       </a>
       |
       <a
-        href="https://github.com/liyupi/yulegeyu"
+        href="https://github.com/1577648502/yulegeyu"
         target="_blank"
         style="color: #fff"
       >
